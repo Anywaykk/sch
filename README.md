@@ -1,2 +1,1 @@
-# sch
-m,y schedule bot
+"# schudBot" 
